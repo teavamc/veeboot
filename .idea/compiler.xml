@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="vee-api" />
+        <module name="vee-common" />
+        <module name="vee-core" />
+        <module name="vee-nio" />
+        <module name="vee-service" />
+        <module name="vee-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="vee-api" target="1.8" />
+      <module name="vee-common" target="1.8" />
+      <module name="vee-core" target="1.8" />
+      <module name="vee-nio" target="1.8" />
+      <module name="vee-service" target="1.8" />
+      <module name="vee-web" target="1.8" />
+      <module name="veeboot" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="vee-api" options="-parameters" />
+      <module name="vee-common" options="-parameters" />
+      <module name="vee-core" options="-parameters" />
+      <module name="vee-nio" options="-parameters" />
+      <module name="vee-service" options="-parameters" />
+      <module name="vee-web" options="-parameters" />
+      <module name="veeboot" options="-parameters" />
+    </option>
+  </component>
+</project>
