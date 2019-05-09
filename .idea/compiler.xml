@@ -9,8 +9,7 @@
         <module name="vee-api" />
         <module name="vee-common" />
         <module name="vee-core" />
-        <module name="vee-nio" />
-        <module name="vee-service" />
+        <module name="vee-services" />
         <module name="vee-web" />
       </profile>
     </annotationProcessing>
@@ -20,6 +19,7 @@
       <module name="vee-core" target="1.8" />
       <module name="vee-nio" target="1.8" />
       <module name="vee-service" target="1.8" />
+      <module name="vee-services" target="1.8" />
       <module name="vee-web" target="1.8" />
       <module name="veeboot" target="1.8" />
     </bytecodeTargetLevel>
@@ -31,6 +31,7 @@
       <module name="vee-core" options="-parameters" />
       <module name="vee-nio" options="-parameters" />
       <module name="vee-service" options="-parameters" />
+      <module name="vee-services" options="-parameters" />
       <module name="vee-web" options="-parameters" />
       <module name="veeboot" options="-parameters" />
     </option>

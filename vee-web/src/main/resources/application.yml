@@ -5,11 +5,17 @@ server:
 spring:
   #  持久层
   datasource:
-    url: jdbc:mysql://127.0.0.1:3306/veeboot?useUnicode=true&characterEncoding=utf-8
+    url: jdbc:mysql://127.0.0.1:3306/veeboot?
+         useUnicode=true&characterEncoding=utf-8
     username: root
     password: q1w2e3
     driver-class-name: com.mysql.cj.jdbc.Driver
     type: com.alibaba.druid.pool.DruidDataSource
+
+
+
+
+
 
 mybatis:
   #  实体类

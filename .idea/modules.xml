@@ -5,8 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/vee-api/vee-api.iml" filepath="$PROJECT_DIR$/vee-api/vee-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/vee-common/vee-common.iml" filepath="$PROJECT_DIR$/vee-common/vee-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/vee-core/vee-core.iml" filepath="$PROJECT_DIR$/vee-core/vee-core.iml" />
-      <module fileurl="file://$PROJECT_DIR$/vee-nio/vee-nio.iml" filepath="$PROJECT_DIR$/vee-nio/vee-nio.iml" />
-      <module fileurl="file://$PROJECT_DIR$/vee-service/vee-service.iml" filepath="$PROJECT_DIR$/vee-service/vee-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vee-services/vee-services.iml" filepath="$PROJECT_DIR$/vee-services/vee-services.iml" />
       <module fileurl="file://$PROJECT_DIR$/vee-web/vee-web.iml" filepath="$PROJECT_DIR$/vee-web/vee-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/veeboot.iml" filepath="$PROJECT_DIR$/veeboot.iml" />
     </modules>

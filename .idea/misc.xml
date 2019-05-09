@@ -6,7 +6,18 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/vee-core/pom.xml" />
         <option value="$PROJECT_DIR$/vee-web/pom.xml" />
+        <option value="$PROJECT_DIR$/vee-api/pom.xml" />
+        <option value="$PROJECT_DIR$/vee-services/pom.xml" />
+        <option value="$PROJECT_DIR$/vee-common/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/vee-api/pom.xml" />
+        <option value="$PROJECT_DIR$/vee-common/pom.xml" />
+        <option value="$PROJECT_DIR$/vee-nio/pom.xml" />
+        <option value="$PROJECT_DIR$/vee-service/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">

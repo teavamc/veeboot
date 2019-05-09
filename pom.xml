@@ -21,10 +21,6 @@
     <modules>
         <module>vee-core</module>
         <module>vee-web</module>
-        <module>vee-service</module>
-        <module>vee-common</module>
-        <module>vee-api</module>
-        <module>vee-nio</module>
     </modules>
     <packaging>pom</packaging>
 
@@ -59,7 +55,7 @@
         <!--阿里巴巴连接池-->
         <dependency>
             <groupId>com.alibaba</groupId>
-            <artifactId>druid</artifactId>
+            <artifactId>druid-spring-boot-starter</artifactId>
             <version>1.1.16</version>
         </dependency>
         <!-- 分页插件 -->
@@ -67,6 +63,11 @@
             <groupId>com.github.pagehelper</groupId>
             <artifactId>pagehelper-spring-boot-starter</artifactId>
             <version>1.2.5</version>
+        </dependency>
+        <!--JPA-->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-data-jpa</artifactId>
         </dependency>
 
     </dependencies>

@@ -5,9 +5,7 @@
     <file url="file://$PROJECT_DIR$/vee-api" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/vee-common" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/vee-core" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/vee-nio" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/vee-service" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/vee-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vee-services" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/vee-web" charset="UTF-8" />
   </component>
 </project>
